@@ -7,6 +7,8 @@ There are links to the websites, as well as screenshots displaying them.
 
 This website was part of my second year web development. It is a single page application and takes a user input to query the V&A Museum API.
 
+This does not work anymore as access to the API has been restricted. The JavaScript source code is still available in the website though.
+
 [Link to website](https://jb1930.brighton.domains/CI527/Assignment1/index.html)
 
 ![Image](/images/V&A.jpg)
