@@ -6,7 +6,7 @@ There will be various types of projects like games, web development, mobile app 
 
 ### Links
 
-- [Web Development](WebDev.md)
-- [Link]Mobile Application Development
-- [Link]Game Development
-- [Link]3D Modelling and Animation
+- [Web Development](Pages/WebDev.md)
+- [Mobile Application Development](Pages/MobileDev.md)
+- [Game Development](Pages/GameDev.md)
+- [3D Modelling and Animation](Pages/ModelAnim.md)
