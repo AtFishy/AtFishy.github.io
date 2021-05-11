@@ -12,4 +12,4 @@ There will be various types of projects like games, web development, mobile app 
 - [3D Modelling and Animation](Pages/ModelAnim.md)
 
 ### Socials
-- [LinkedIn](www.linkedin.com/in/jblake3811)
+- [LinkedIn](https://www.linkedin.com/in/jblake3811)
