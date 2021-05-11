@@ -8,4 +8,5 @@ There are links to the websites, as well as screenshots displaying them.
 This website was part of my second year web development. It is a single page application and takes a user input to query the V&A Museum API.
 
 [Link to website](https://jb1930.brighton.domains/CI527/Assignment1/index.html)
+
 ![Image](images/V&A.jpg)
