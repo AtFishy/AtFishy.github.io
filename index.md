@@ -10,3 +10,6 @@ There will be various types of projects like games, web development, mobile app 
 - [Mobile Application Development](Pages/MobileDev.md)
 - [Game Development](Pages/GameDev.md)
 - [3D Modelling and Animation](Pages/ModelAnim.md)
+
+### Socials
+- [LinkedIn](www.linkedin.com/in/jblake3811)
