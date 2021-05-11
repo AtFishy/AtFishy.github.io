@@ -9,4 +9,4 @@ This website was part of my second year web development. It is a single page app
 
 [Link to website](https://jb1930.brighton.domains/CI527/Assignment1/index.html)
 
-![Image](images/V&A.jpg)
+![Image](/images/V&A.jpg)
