@@ -6,4 +6,4 @@ There will be download links for the APK files as well as screenshots displaying
 ## Homework Planning App
 This app was part of my second year Mobile Application Development module. It allows the user to create a new assignment, view assignments they have created and create a calendar event for them. 
 
-![Image](/images/HomeworkApp.jpg)
+![Image](/images/HomeworkApp1.jpg) ![Image](/images/HomeworkApp2.jpg)
