@@ -19,4 +19,4 @@ This API was also made as part of my second year web development module. It is w
 
 [API Endpoint](http://jb1930.brighton.domains/CI527/Assignment2/api.php)
 
-![image](/images/APICode1.jpg) ![Image](/images/APICode2.jpg)
+![Image](/images/APICode1.jpg) ![Image](/images/APICode2.jpg)
