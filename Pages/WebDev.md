@@ -12,3 +12,11 @@ This does not work anymore as access to the API has been restricted. The JavaScr
 [Link to website](https://jb1930.brighton.domains/CI527/Assignment1/index.html)
 
 ![Image](/images/V&ACode1.jpg) ![Image](/images/V&ACode2.jpg)
+
+## Custom API
+
+This API was also made as part of my second year web development module. It is written in PHP and allows a user to make POST and GET requests. They query a MySQL database which then returns data or creates a new record.
+
+[API Endpoint](http://jb1930.brighton.domains/CI527/Assignment2/api.php)
+
+![image](/images/APICode1.jpg) ![Image](/images/APICode2.jpg)
