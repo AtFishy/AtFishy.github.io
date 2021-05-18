@@ -2,17 +2,12 @@
 
 This page is to display the game development I have done. This is the main focus of my course
 
-## 2D Roguelike Prototype (Unity)
-
-This is a prototype roguelike game for my Introduction to Game Development module in my first year. It was a rough prototype and was mostly to show important programming and design techniques I had learnt.
-
-![Image](/images/RoguelikeGame1.jpg) ![Image](/images/RoguelikeGame2.jpg)
-
 ## 2D Maths Learning Platformer (Unity)
 
 This was the game I developed for my second year group project. It is a simple maths based platformer design to help younger kids learning simple maths. We worked in a group of four to design and develop this. 
 
 ![Image](/images/MathsPlatformer1.jpg) ![Image](/images/MathsPlatformer2.jpg)
+![Image](/images/MathsPlatformerCode1.jpg) ![Image](/images/MathsPlatformerCode2.jpg)
 
 ## 3D Platformer Prototype (Unreal)
 
