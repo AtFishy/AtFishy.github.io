@@ -6,7 +6,7 @@ This page is to display the game development I have done. This is the main focus
 
 This was the game I developed for my second year group project. It is a simple maths based platformer design to help younger kids learning simple maths. We worked in a group of four to design and develop this. 
 
-![Image](/images/MathsPlatformer1.jpg) ![Image](/images/MathsPlatformer2.jpg)
+![Image](/images/MathsPlatformer1.jpg)
 ![Image](/images/MathsPlatformerCode1.jpg) ![Image](/images/MathsPlatformerCode2.jpg)
 
 ## 3D Platformer Prototype (Unreal)
