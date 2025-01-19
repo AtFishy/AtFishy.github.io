@@ -6,10 +6,9 @@ There will be various types of projects like games, web development, mobile app 
 
 ### Links
 
-- [Web Development](Pages/WebDev.md)
-- [Mobile Application Development](Pages/MobileDev.md)
-- [Game Development](Pages/GameDev.md)
-- [3D Modelling and Animation](Pages/ModelAnim.md)
+- [Current Project - Dynamic Difficulty Adjustment in a Souls-Like Combat System](Pages/SoulsLikeDDA.md)
+
+- [University Projects](Pages/UniversityProjects.md)
 
 ### Socials
 - [LinkedIn](https://www.linkedin.com/in/jblake3811)
