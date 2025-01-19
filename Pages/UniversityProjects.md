@@ -7,4 +7,3 @@ These are all the projects I was happy with creating during my time at universit
 - [Web Development](University/WebDev.md)
 - [Mobile Application Development](University/MobileDev.md)
 - [Game Development](University/GameDev.md)
-- [3D Modelling and Animation](University/ModelAnim.md)
