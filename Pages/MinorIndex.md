@@ -5,4 +5,4 @@ having a good basis of knowledge about if I ever decide to tackle a larger scale
 
 ### Links
 
-- [Map Generation in Unity](Minor/MapGeneration.MD)
+- [Map Generation in Unity](Minor/MapGeneration.md)
