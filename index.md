@@ -1,4 +1,4 @@
-## Welcome to my portfolio
+### Welcome to my portfolio
 
 I use this website to display all the projects I make and participate in, whether it's university work or not.
 
