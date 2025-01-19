@@ -4,7 +4,7 @@ These are all the projects I was happy with creating during my time at universit
 
 ### Links
 
-- [Web Development](Pages/WebDev.md)
-- [Mobile Application Development](Pages/MobileDev.md)
-- [Game Development](Pages/GameDev.md)
-- [3D Modelling and Animation](Pages/ModelAnim.md)
+- [Web Development](WebDev.md)
+- [Mobile Application Development](MobileDev.md)
+- [Game Development](GameDev.md)
+- [3D Modelling and Animation](ModelAnim.md)
