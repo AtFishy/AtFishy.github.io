@@ -4,7 +4,9 @@ I use this website to display all the projects I make and participate in, whethe
 
 There will be various types of projects like games, web development, mobile app development and 3D modelling and animation.
 
-### Links
+## [About Me](Pages/AboutMe.md)
+
+### Project Links
 
 - [Current Project - Dynamic Difficulty Adjustment in a Souls-Like Combat System](Pages/SoulsLikeDDA.md)
 
