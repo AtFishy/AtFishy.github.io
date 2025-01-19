@@ -10,5 +10,7 @@ There will be various types of projects like games, web development, mobile app 
 
 - [University Projects](Pages/UniversityProjects.md)
 
+- [Minor Projects](Pages/MinorIndex.md)
+
 ### Socials
 - [LinkedIn](https://www.linkedin.com/in/jblake3811)
