@@ -19,8 +19,11 @@ Before I could work further on this, the metrics to calculate the adjustment nee
 - Attacks that the enemy uses
 - Aggressiveness with which the enemy pursues the player
 
-## Implementation
+## Implementation of Animation Rate Change
 
 ![Image](/images/DDASoulsLike/DDASoulsLikeImage1.png)
 
-This is the maths logic for how the difficulty is calculated. A log function is used purely because they provide nice gradual increases over time, which is key with this as you don't want to clue the player in too much to what's happening.
+This is the maths logic for how the difficulty is calculated. A log function is used purely because they provide nice gradual increases over time, which is key with this as you don't want to clue the player in too much to what's happening. 
+After this is calculated, the value is plugged straight into the 'Montage Set Play Rate' action. This saves the global animation rate from being changed which would cause the enemy's movement to look a bit odd which we don't.
+
+![Image](/images/DDASoulsLike/DDASoulsLikeImage2.png)
