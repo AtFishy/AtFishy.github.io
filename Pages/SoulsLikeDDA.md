@@ -18,3 +18,8 @@ Before I could work further on this, the metrics to calculate the adjustment nee
 - Animation speed of enemy's attacks
 - Attacks that the enemy uses
 - Aggressiveness with which the enemy pursues the player
+
+
+![Image](/images/DDASoulsLike/DDASoulsLikeImage1.png)
+
+This is the maths logic for how the difficulty is calculated. A log function is used purely because they provide nice gradual increases over time, which is key with this as you don't want to clue the player in too much to what's happening.
