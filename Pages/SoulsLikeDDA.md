@@ -19,6 +19,7 @@ Before I could work further on this, the metrics to calculate the adjustment nee
 - Attacks that the enemy uses
 - Aggressiveness with which the enemy pursues the player
 
+## Implementation
 
 ![Image](/images/DDASoulsLike/DDASoulsLikeImage1.png)
 
