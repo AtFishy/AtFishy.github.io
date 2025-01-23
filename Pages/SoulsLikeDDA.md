@@ -1,4 +1,4 @@
-### Dynamic Difficulty Adjustment in a Souls-Like combat System
+# Dynamic Difficulty Adjustment in a Souls-Like combat System
 ## About
 
 This project was made to tackle and play around with one of the biggest issues with Souls-Like games in my view. The issue of players finding the combat or gameplay so difficult, they will stop playing. Souls-Like games often have deep and very intriguing stories that creators have spent hours upon hours working on and detailing, just for players to not be able to experience it because one boss was maybe too difficult. Though some people might argue that just adding a difficulty setting to the game would fix this, it also kills the spirit of the genre, and can open the player up to ridicule from others as they didn't have as high a difficulty as someone else. It might also just dissuade some people from the game altogether as they're playing only for the challenge. Due to these reasons, I wanted to try adding a dynamic difficulty adjustment system to a Souls-Like combat system. Changing the boss's difficulty on the fly, responding immediately to the player's performance could reduce a lot of the frustration some people experience, and allow them to keep playing what could be an interesting and amazing game. 
@@ -10,11 +10,11 @@ As the focus of this project was to toy with the behaviour of the enemy and calc
 ## Adjustment Mechanic
 
 Before I could work further on this, the metrics to calculate the adjustment needed to be chosen and the mechanics to adjust needed to be chosen.
-# Metrics
+### Metrics
 - Consecutive damage the enemy has landed without being hit
 - Consecutive damage the player has landed without being hit
 
-# Mechanics
+### Mechanics
 - Animation speed of enemy's attacks
 - Attacks that the enemy uses
 - Aggressiveness with which the enemy pursues the player
