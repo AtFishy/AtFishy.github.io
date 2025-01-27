@@ -28,6 +28,11 @@ After this is calculated, the value is plugged straight into the 'Montage Set Pl
 
 ![Image](/images/DDASoulsLike/DDASoulsLikeImage2.png)
 
+Below are two gifs demonstrating the animation rate change when playing the project. Notice how as the health of the respective entities decreases, the animations of the enemy speed up and slow down. I've used a keybind to activate the health change to demonstrate it, but in a game, this would be done when the player takes a hit or lands a hit. 
+
+![Image](/images/DDASoulsLike/DDASoulsLikeWEBP1.webp)
+
+![Image](/images/DDASoulsLike/DDASoulsLikeWEBP2.webp)
 
 ## Implementation of Enemy Behaviour
 
