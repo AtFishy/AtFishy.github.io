@@ -27,3 +27,17 @@ This is the maths logic for how the difficulty is calculated. A log function is 
 After this is calculated, the value is plugged straight into the 'Montage Set Play Rate' action. This saves the global animation rate from being changed which would cause the enemy's movement to look a bit odd which we don't.
 
 ![Image](/images/DDASoulsLike/DDASoulsLikeImage2.png)
+
+
+## Implementation of Enemy Behaviour
+
+![Image](/images/DDASoulsLike/DDASoulsLikeImage3.png)
+
+This is the important section of the behaviour tree of the enemy. The behaviour will check what the current value of the difficulty scale is, and execute the correct string of actions based on the value. 
+
+This is far from a complete behaviour tree that would be implemented in a full game, but it demonstrates the idea behind the dynamic difficulty adjustment. Lower difficulty, the enemy will be more passive, have less variety in attacks and overall give the player a more relaxed experience. Higher difficulty (and also default difficulty in this demo), the enemy would have a higher variety of moves, close the gap to be closer to the player and have less obvious openings, giving the player a more tense and difficult experience. 
+
+
+## Summary
+
+This project felt like a big learning experience. Mostly learning to use Unreal again and derusting after a while. I am fairly happy with this, but it's obviously not perfect. There are glitchy animations because of the play rate of the montages. The behaviour tree is not as complex as it could be. If I came back to this project, expanding the behaviour tree and refining the animations would be the most important parts. 
