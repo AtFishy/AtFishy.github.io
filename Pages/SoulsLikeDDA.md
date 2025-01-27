@@ -41,3 +41,5 @@ This is far from a complete behaviour tree that would be implemented in a full g
 ## Summary
 
 This project felt like a big learning experience. Mostly learning to use Unreal again and derusting after a while. I am fairly happy with this, but it's obviously not perfect. There are glitchy animations because of the play rate of the montages. The behaviour tree is not as complex as it could be. If I came back to this project, expanding the behaviour tree and refining the animations would be the most important parts. 
+
+When going back to this to get videos to add to this page, I found a very annoying thing to do with the "Montage Set Play Rate" action. It only changes the play rate of the montage if it is currently playing. It doesn't change it definitively for the montage. Therefore, the only way to really implement this would be to set the play rate at the start of the montage playing, every time a montage is played. This would be a lot of hassle for this small project, so I used a workaround using the "event tick" to set the montage play rate every tick. This is horrible practice for performance, but it works to demonstrate the point of the project.
